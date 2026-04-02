@@ -1,0 +1,8 @@
+<ide_opened_file>The user opened the file /Users/cyril/Documents/498_Agents/data/users/advanced-developer.json in the IDE. This may or may not be related to the current task.</ide_opened_file>
+Using only the skills available to you (YOU MUST USE THE SKILLS), use the session-start skill to respond to the following prompt from a user of the AI agent system this project prototypes. YOU MAY ONLY USE THE SKILLS AND MAY NOT READ ANY OTHER FILES TO PREPARE OR DECIDE ON A RESPONSE.
+
+"I am Maya, I am a PhD student in CS trying to learn how to use ai agents
+
+---
+
+build the session-start skill

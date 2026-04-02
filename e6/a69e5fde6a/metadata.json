@@ -3,7 +3,7 @@
   "checkpoint_id": "e6a69e5fde6a",
   "strategy": "manual-commit",
   "branch": "prototype/v1",
-  "checkpoints_count": 0,
+  "checkpoints_count": 1,
   "files_touched": [
     ".claude/skills/bad-agent-simulator/SKILL.md",
     ".claude/skills/bad-agent-simulator/reference.md",
@@ -58,13 +58,19 @@
       "transcript": "/e6/a69e5fde6a/0/full.jsonl",
       "content_hash": "/e6/a69e5fde6a/0/content_hash.txt",
       "prompt": "/e6/a69e5fde6a/0/prompt.txt"
+    },
+    {
+      "metadata": "/e6/a69e5fde6a/1/metadata.json",
+      "transcript": "/e6/a69e5fde6a/1/full.jsonl",
+      "content_hash": "/e6/a69e5fde6a/1/content_hash.txt",
+      "prompt": "/e6/a69e5fde6a/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 89,
-    "cache_creation_tokens": 226634,
-    "cache_read_tokens": 6351542,
-    "output_tokens": 93767,
-    "api_call_count": 74
+    "input_tokens": 104,
+    "cache_creation_tokens": 256460,
+    "cache_read_tokens": 6660980,
+    "output_tokens": 99380,
+    "api_call_count": 85
   }
 }
