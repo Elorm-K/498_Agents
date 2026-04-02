@@ -1,0 +1,47 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "e6a69e5fde6a",
+  "session_id": "6404fd02-52ea-443f-b9bb-ded1c5ba8f1b",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-02T20:55:53.576372Z",
+  "branch": "prototype/v1",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "skills/assessment/knowledge-check.md",
+    "skills/assessment/level-classifier.md",
+    "skills/assessment/skill-evaluator.md",
+    "skills/feedback/improvement-advisor.md",
+    "skills/feedback/progress-reporter.md",
+    "skills/feedback/reflection-facilitator.md",
+    "skills/meta/difficulty-adapter.md",
+    "skills/meta/session-router.md",
+    "skills/simulation/bad-agent-simulator.md",
+    "skills/simulation/prompt-lab.md",
+    "skills/simulation/scenario-runner.md",
+    "skills/teaching/concept-explainer.md",
+    "skills/teaching/ethical-guidance.md",
+    "skills/teaching/onboarding.md",
+    "skills/teaching/prompt-coaching.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "7597548106ff",
+  "token_usage": {
+    "input_tokens": 12,
+    "cache_creation_tokens": 9384,
+    "cache_read_tokens": 69813,
+    "output_tokens": 523,
+    "api_call_count": 4
+  },
+  "session_metrics": {
+    "turn_count": 2
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-02T20:55:53.5723Z",
+    "agent_lines": 0,
+    "human_added": 1088,
+    "human_modified": 2359,
+    "human_removed": 0,
+    "total_committed": 1088,
+    "agent_percentage": 0
+  }
+}
