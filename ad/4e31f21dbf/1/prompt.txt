@@ -1,0 +1,26 @@
+Create a branch in this repo for first prototype
+
+---
+
+<ide_opened_file>The user opened the file /temp/readonly/Agent tool input (gclr3a) in the IDE. This may or may not be related to the current task.</ide_opened_file>
+once the other agents are done putting together the plan for my ai agent, how can I test scenarios and then move them to github for other s to test the prototype
+
+---
+
+once the other agents are done putting together the plan for my ai agent, how can I test scenarios and then move them to github for other s to test the prototype
+
+---
+
+give me the archotecture of the test structure for when I complete the dev'p of my agent
+
+---
+
+in my current state of my pr, can others test it?
+
+---
+
+Oh okay but can Isahre ith others to test out the agent?
+
+---
+
+draft a readme.md
