@@ -1,0 +1,48 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "1b15cf10015e",
+  "session_id": "235c9d0c-7855-4c68-af43-a5ab6b8fae97",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-03T03:00:34.026102Z",
+  "branch": "prototype/v1",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".claude/skills/bad-agent-simulator/SKILL.md",
+    ".claude/skills/concept-explainer/SKILL.md",
+    ".claude/skills/difficulty-adapter/SKILL.md",
+    ".claude/skills/ethical-guidance/SKILL.md",
+    ".claude/skills/improvement-advisor/SKILL.md",
+    ".claude/skills/knowledge-check/SKILL.md",
+    ".claude/skills/level-classifier/SKILL.md",
+    ".claude/skills/onboarding/SKILL.md",
+    ".claude/skills/progress-reporter/SKILL.md",
+    ".claude/skills/prompt-coaching/SKILL.md",
+    ".claude/skills/prompt-lab/SKILL.md",
+    ".claude/skills/reflection-facilitator/SKILL.md",
+    ".claude/skills/scenario-runner/SKILL.md",
+    ".claude/skills/session-router/SKILL.md",
+    ".claude/skills/skill-evaluator/SKILL.md",
+    "CLAUDE.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "3dc100664647",
+  "token_usage": {
+    "input_tokens": 116,
+    "cache_creation_tokens": 899830,
+    "cache_read_tokens": 9845706,
+    "output_tokens": 109499,
+    "api_call_count": 97
+  },
+  "session_metrics": {
+    "turn_count": 2
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-03T03:00:33.717576Z",
+    "agent_lines": 238,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 238,
+    "agent_percentage": 100
+  }
+}

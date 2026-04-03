@@ -1,0 +1,40 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "1b15cf10015e",
+  "strategy": "manual-commit",
+  "branch": "prototype/v1",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".claude/skills/bad-agent-simulator/SKILL.md",
+    ".claude/skills/concept-explainer/SKILL.md",
+    ".claude/skills/difficulty-adapter/SKILL.md",
+    ".claude/skills/ethical-guidance/SKILL.md",
+    ".claude/skills/improvement-advisor/SKILL.md",
+    ".claude/skills/knowledge-check/SKILL.md",
+    ".claude/skills/level-classifier/SKILL.md",
+    ".claude/skills/onboarding/SKILL.md",
+    ".claude/skills/progress-reporter/SKILL.md",
+    ".claude/skills/prompt-coaching/SKILL.md",
+    ".claude/skills/prompt-lab/SKILL.md",
+    ".claude/skills/reflection-facilitator/SKILL.md",
+    ".claude/skills/scenario-runner/SKILL.md",
+    ".claude/skills/session-router/SKILL.md",
+    ".claude/skills/skill-evaluator/SKILL.md",
+    "CLAUDE.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/1b/15cf10015e/0/metadata.json",
+      "transcript": "/1b/15cf10015e/0/full.jsonl",
+      "content_hash": "/1b/15cf10015e/0/content_hash.txt",
+      "prompt": "/1b/15cf10015e/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 116,
+    "cache_creation_tokens": 899830,
+    "cache_read_tokens": 9845706,
+    "output_tokens": 109499,
+    "api_call_count": 97
+  }
+}
