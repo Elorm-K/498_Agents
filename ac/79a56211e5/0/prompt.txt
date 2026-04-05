@@ -1,0 +1,11 @@
+commit and push the updates
+
+---
+
+<ide_opened_file>The user opened the file /Users/cyril/Documents/498_Agents/examples/interactions/negative/01-blind-trust-in-output.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+I feel the design of this agent is good but the amout of information it gives before asking the user a question is too much. can you make your response a bit brief yet captivating i=enough for the user to see the questions you're asking and then answer?
+also the anser demanded from teh user shouldnt need to type much
+
+---
+
+Want to merge the branches to the main
